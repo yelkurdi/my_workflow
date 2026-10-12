@@ -49,5 +49,10 @@ Repository skills are in [.agents/skills](.agents/skills). Example requests:
 
 - `$add-n Capture a note about today's planning discussion: …`
 - `$add-bm Save https://example.com in IBM/internal/computing with the title Example resource.`
+- `$add-inbox Look into the new build cache option.`
+- `$add-task Add "Draft the Q4 plan" to Next.`
+- `$add-doc Write a procedure for setting up a new laptop: …`
+- `$archive-doc Archive notes/2026-01-05-topic.md.`
+- `$weekly-review`
 
-The examples are prompts, not saved content. See [add-n](.agents/skills/add-n/SKILL.md) and [add-bm](.agents/skills/add-bm/SKILL.md) for their conventions. Repository skill placement follows the [official Codex documentation](https://developers.openai.com/codex/skills/).
+The examples are prompts, not saved content. See [add-n](.agents/skills/add-n/SKILL.md), [add-bm](.agents/skills/add-bm/SKILL.md), [add-inbox](.agents/skills/add-inbox/SKILL.md), [add-task](.agents/skills/add-task/SKILL.md), [add-doc](.agents/skills/add-doc/SKILL.md), [archive-doc](.agents/skills/archive-doc/SKILL.md), and [weekly-review](.agents/skills/weekly-review/SKILL.md) for their conventions. In Claude Code, invoke them as `/add-n` and so on; `.claude/skills` links to the same folder. Repository skill placement follows the [official Codex documentation](https://developers.openai.com/codex/skills/).

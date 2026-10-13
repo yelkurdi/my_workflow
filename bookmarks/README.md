@@ -12,6 +12,7 @@ Store links in the most specific category. Each entry has a linked title, a shor
     - [Processes](IBM/internal/processes/README.md) — organizational workflows and administrative procedures.
     - [Coding agents](IBM/internal/coding_agents/README.md)
       - [Claude](IBM/internal/coding_agents/claude/README.md)
+    - [IT](IBM/internal/IT/README.md)
 - [Media](media/README.md)
   - [YouTube](media/youtube/README.md)
     - [Commentary](media/youtube/commentary/README.md)

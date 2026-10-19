@@ -15,3 +15,11 @@ Added: 2026-10-01
 ## [The Jay Martin Show — YouTube](https://www.youtube.com/@TheJayMartinShow)
 
 Added: 2026-10-18
+
+## [AJ+ — YouTube](https://www.youtube.com/@ajplus)
+
+Added: 2026-10-18
+
+## [Al Jazeera Documentary — YouTube](https://www.youtube.com/@aljazeeradocumentary)
+
+Added: 2026-10-18

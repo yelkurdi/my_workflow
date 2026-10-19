@@ -17,6 +17,7 @@ Store links in the most specific category. Each entry has a linked title, a shor
   - [YouTube](media/youtube/README.md)
     - [Commentary](media/youtube/commentary/README.md)
     - [Education](media/youtube/education/README.md)
+    - [News](media/youtube/news/README.md)
 - [News](news/README.md)
   - [Tech](news/tech/README.md)
 

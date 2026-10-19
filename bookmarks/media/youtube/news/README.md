@@ -15,3 +15,7 @@ Added: 2026-10-18
 ## [Al Jazeera Mubasher — YouTube](https://www.youtube.com/@aljazeeramubasher)
 
 Added: 2026-10-18
+
+## [Kitco — YouTube](https://www.youtube.com/@kitco)
+
+Added: 2026-10-18

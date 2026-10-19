@@ -11,3 +11,7 @@ Added: 2026-10-01
 ## [PBoyle — YouTube](https://www.youtube.com/@PBoyle)
 
 Added: 2026-10-01
+
+## [The Jay Martin Show — YouTube](https://www.youtube.com/@TheJayMartinShow)
+
+Added: 2026-10-18

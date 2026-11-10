@@ -6,3 +6,4 @@
 - [Processes](processes/README.md)
 - [Coding agents](coding_agents/README.md)
 - [IT](IT/README.md)
+- [Research](research/README.md)
